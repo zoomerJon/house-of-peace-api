@@ -573,7 +573,7 @@ module.exports = [
   },
   {
     Grupo: "N-1-4-1-2",
-    Líder: "Tania Diasz",
+    Líder: "Tania Diaz",
     Teléfono: ["702-287-9489"],
     Ubicación: "Las Vegas",
     Dias: "Domingo",
@@ -1509,7 +1509,7 @@ module.exports = [
   },
   {
     Grupo: "S-5-2-1-1",
-    Líder: "LiDias Hernandez",
+    Líder: "Lidia Hernandez",
     Teléfono: ["702-759-3465"],
     Ubicación: "Las Vegas",
     Dias: "Miércoles",
@@ -2095,7 +2095,7 @@ module.exports = [
   },
   {
     Grupo: "SH-5-3-2-1",
-    Líder: "ClauDias Elizabeth Aguilar",
+    Líder: "Claudia Elizabeth Aguilar",
     Teléfono: ["702-504-8017"],
     Ubicación: "Las Vegas",
     Dias: "Viernes",
