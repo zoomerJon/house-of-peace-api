@@ -1,6 +1,6 @@
 module.exports = [
   {
-    Group: "A-1-1-1-1",
+    Grupo: "A-1-1-1-1",
     Leader: "Javier Ruiz",
     Phone: ["702-326-3195"],
     Campus: "Las Vegas",
@@ -13,7 +13,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "A-2-1-2-1",
+    Grupo: "A-2-1-2-1",
     Leader: "Fernando Ayala",
     Phone: ["702-472-4427"],
     Campus: "Las Vegas",
@@ -26,7 +26,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "A-2-1-2-1",
+    Grupo: "A-2-1-2-1",
     Leader: "Henry Villaneuva",
     Phone: ["702-886-6788"],
     Campus: "Las Vegas",
@@ -39,7 +39,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "A-2-1-3-2",
+    Grupo: "A-2-1-3-2",
     Leader: "Henry Vasquez",
     Phone: ["702-666-4293"],
     Campus: "Las Vegas",
@@ -52,7 +52,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "A-2-1-5-1",
+    Grupo: "A-2-1-5-1",
     Leader: "Jose L. Agustin",
     Phone: ["702-773-4022"],
     Campus: "Las Vegas",
@@ -65,7 +65,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "A-2-4-1-1",
+    Grupo: "A-2-4-1-1",
     Leader: "Lucia Villaneuva",
     Phone: ["702-533-8209"],
     Campus: "Las Vegas",
@@ -78,7 +78,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "A-3-1-1-1",
+    Grupo: "A-3-1-1-1",
     Leader: "Mirna Lopez",
     Phone: ["702-406-8549"],
     Campus: "Las Vegas",
@@ -91,7 +91,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "A-5-2-1-1",
+    Grupo: "A-5-2-1-1",
     Leader: "Carlos Alvarez",
     Phone: ["702-689-6905"],
     Campus: "Las Vegas",
@@ -104,7 +104,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "A-5-2-1-2",
+    Grupo: "A-5-2-1-2",
     Leader: "Carlos Alvarez",
     Phone: ["702-689-6905"],
     Campus: "Las Vegas",
@@ -117,7 +117,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-1-1-4-1",
+    Grupo: "J-1-1-4-1",
     Leader: "Yazmina Hernandez",
     Phone: ["702-418-6621"],
     Campus: "Las Vegas",
@@ -130,7 +130,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-1-2-1-1",
+    Grupo: "J-1-2-1-1",
     Leader: "Jaime Avila",
     Phone: ["702-769-0726"],
     Campus: "Las Vegas",
@@ -143,7 +143,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-1-2-1-1",
+    Grupo: "J-1-2-1-1",
     Leader: "Isidro Rodriguez",
     Phone: ["702-969-4087"],
     Campus: "Las Vegas",
@@ -156,7 +156,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-1-2-1-2",
+    Grupo: "J-1-2-1-2",
     Leader: "Isidro Rodriguez",
     Phone: ["702-969-4087"],
     Campus: "Las Vegas",
@@ -169,7 +169,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-1-2-2-2",
+    Grupo: "J-1-2-2-2",
     Leader: "Juan y Barbara Banuelos",
     Phone: ["702-296-9744", "702-326-3771"],
     Campus: "Las Vegas",
@@ -182,7 +182,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-1-3-2-2",
+    Grupo: "J-1-3-2-2",
     Leader: "Albina Cervantes",
     Phone: ["702-272-3196"],
     Campus: "Las Vegas",
@@ -195,7 +195,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-1-3-3-1",
+    Grupo: "J-1-3-3-1",
     Leader: "Narciso y Angelina Cervantez",
     Phone: ["702-466-4142", "702-767-8575"],
     Campus: "Las Vegas",
@@ -208,7 +208,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-1-3-3-2",
+    Grupo: "J-1-3-3-2",
     Leader: "Maria Mendoza",
     Phone: ["702-684-2260"],
     Campus: "Las Vegas",
@@ -221,7 +221,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-1-4-1-2",
+    Grupo: "J-1-4-1-2",
     Leader: "Rodolfo Hernandez",
     Phone: ["702-619-8006"],
     Campus: "Las Vegas",
@@ -234,7 +234,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-1-4-3-2",
+    Grupo: "J-1-4-3-2",
     Leader: "Eduardo Contreras",
     Phone: ["702-349-8282"],
     Campus: "Las Vegas",
@@ -247,7 +247,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-2-1-1-1",
+    Grupo: "J-2-1-1-1",
     Leader: "Catalina Escobedo",
     Phone: ["702-684-2319"],
     Campus: "Las Vegas",
@@ -260,7 +260,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-2-1-1-2",
+    Grupo: "J-2-1-1-2",
     Leader: "Elizabeth Gonzalez",
     Phone: ["702-490-2679"],
     Campus: "Las Vegas",
@@ -273,7 +273,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-2-1-2-1",
+    Grupo: "J-2-1-2-1",
     Leader: "Sandra Martinez",
     Phone: ["702-772-4758"],
     Campus: "Las Vegas",
@@ -286,7 +286,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-2-1-2-1",
+    Grupo: "J-2-1-2-1",
     Leader: "Juan Colin",
     Phone: ["916-317-6427"],
     Campus: "Las Vegas",
@@ -299,7 +299,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-2-2-2-1",
+    Grupo: "J-2-2-2-1",
     Leader: "Ivan Garcia",
     Phone: ["702-409-5279"],
     Campus: "Las Vegas",
@@ -312,7 +312,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-3-1-2-1",
+    Grupo: "J-3-1-2-1",
     Leader: "Raul Ruiz",
     Phone: ["702-448-0210"],
     Campus: "Las Vegas",
@@ -325,7 +325,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-3-1-3-1",
+    Grupo: "J-3-1-3-1",
     Leader: "Maurilio Rosas",
     Phone: ["702-980-5519"],
     Campus: "Las Vegas",
@@ -338,7 +338,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-3-2-2-2",
+    Grupo: "J-3-2-2-2",
     Leader: "Sergio y Sandra Cardona",
     Phone: ["702-929-8548", "702-545-5424"],
     Campus: "Las Vegas",
@@ -351,7 +351,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-3-3-1-1",
+    Grupo: "J-3-3-1-1",
     Leader: "Rosa M. Melara",
     Phone: ["702-812-1664"],
     Campus: "Las Vegas",
@@ -364,7 +364,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-3-5-1-1",
+    Grupo: "J-3-5-1-1",
     Leader: "Toribio Ortiz",
     Phone: ["702-806-3215"],
     Campus: "Las Vegas",
@@ -377,7 +377,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-3-5-1-2",
+    Grupo: "J-3-5-1-2",
     Leader: "Gloria Chavez",
     Phone: ["702-504-0148"],
     Campus: "Las Vegas",
@@ -390,7 +390,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-3-5-2-1",
+    Grupo: "J-3-5-2-1",
     Leader: "Roman Cruz Ortiz",
     Phone: ["725-300-1554"],
     Campus: "Las Vegas",
@@ -403,7 +403,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-3-5-2-2",
+    Grupo: "J-3-5-2-2",
     Leader: "Silvia Cruz",
     Phone: ["725-266-2852"],
     Campus: "Las Vegas",
@@ -416,7 +416,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-4-1-1-1",
+    Grupo: "J-4-1-1-1",
     Leader: "Matilde Enriquez",
     Phone: ["702-502-2062"],
     Campus: "Las Vegas",
@@ -429,7 +429,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-4-1-1-2",
+    Grupo: "J-4-1-1-2",
     Leader: "Mirian Murcia",
     Phone: ["702-561-8836"],
     Campus: "Las Vegas",
@@ -442,7 +442,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-4-1-2-1",
+    Grupo: "J-4-1-2-1",
     Leader: "Margarita Franco",
     Phone: ["725-203-8602"],
     Campus: "Las Vegas",
@@ -455,7 +455,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "J-4-1-2-2",
+    Grupo: "J-4-1-2-2",
     Leader: "Rafael Carrera",
     Phone: ["702-583-9660"],
     Campus: "Las Vegas",
@@ -468,7 +468,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "J-4-1-3-1",
+    Grupo: "J-4-1-3-1",
     Leader: "Magali Quiroa",
     Phone: ["702-544-5536"],
     Campus: "Las Vegas",
@@ -481,7 +481,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-1-1-1",
+    Grupo: "N-1-1-1-1",
     Leader: "Jaziel Sanchez",
     Phone: ["702-544-5536"],
     Campus: "Las Vegas",
@@ -494,7 +494,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-1-2-1",
+    Grupo: "N-1-1-2-1",
     Leader: "Astrid Palomo",
     Phone: ["702-559-3984"],
     Campus: "Las Vegas",
@@ -507,7 +507,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-1-3-1",
+    Grupo: "N-1-1-3-1",
     Leader: "Jesse Campos",
     Phone: ["702-373-6126", "702-846-8301"],
     Campus: "Las Vegas",
@@ -520,7 +520,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-2-1-1",
+    Grupo: "N-1-2-1-1",
     Leader: "Edwin Garcia",
     Phone: ["661-916-4145"],
     Campus: "Las Vegas",
@@ -533,7 +533,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-2-1-2",
+    Grupo: "N-1-2-1-2",
     Leader: "David Cruz",
     Phone: ["702-504-9499"],
     Campus: "Las Vegas",
@@ -546,7 +546,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-3",
+    Grupo: "N-1-3",
     Leader: "Chrisopher Sanchez",
     Phone: ["702-918-9530"],
     Campus: "Las Vegas",
@@ -559,7 +559,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-3-1-1",
+    Grupo: "N-1-3-1-1",
     Leader: "Felix Sanchez Jr",
     Phone: ["702-801-9381"],
     Campus: "Las Vegas",
@@ -572,7 +572,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "N-1-4-1-2",
+    Grupo: "N-1-4-1-2",
     Leader: "Tania Diaz",
     Phone: ["702-287-9489"],
     Campus: "Las Vegas",
@@ -585,7 +585,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-1-4-4-1",
+    Grupo: "N-1-4-4-1",
     Leader: "Dennise Castillo",
     Phone: ["702-592-1373"],
     Campus: "Las Vegas",
@@ -598,7 +598,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-2-1-4-1",
+    Grupo: "N-2-1-4-1",
     Leader: "Leyla Nunez",
     Phone: ["702-287-9339"],
     Campus: "Las Vegas",
@@ -611,7 +611,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "N-2-2-4-2",
+    Grupo: "N-2-2-4-2",
     Leader: "Denisse Zelaya",
     Phone: ["702-858-4416"],
     Campus: "Las Vegas",
@@ -624,7 +624,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-2-3-2-2",
+    Grupo: "N-2-3-2-2",
     Leader: "Alex Ortega",
     Phone: ["702-321-2854"],
     Campus: "Las Vegas",
@@ -637,7 +637,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-2-3-3-2",
+    Grupo: "N-2-3-3-2",
     Leader: "Victor Portillo",
     Phone: ["702-845-6952"],
     Campus: "Las Vegas",
@@ -650,7 +650,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-3-1-1-1",
+    Grupo: "N-3-1-1-1",
     Leader: "Quitzia Abigail Soto",
     Phone: ["702-502-7737"],
     Campus: "Las Vegas",
@@ -663,7 +663,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-3-1-1-2",
+    Grupo: "N-3-1-1-2",
     Leader: "Isaac Soto",
     Phone: ["702-502-7988"],
     Campus: "Las Vegas",
@@ -676,7 +676,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-3-1-2-1",
+    Grupo: "N-3-1-2-1",
     Leader: "Diego Saravia",
     Phone: ["702-917-1932"],
     Campus: "Las Vegas",
@@ -689,7 +689,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-3-1-2-2",
+    Grupo: "N-3-1-2-2",
     Leader: "Jonathan Penate",
     Phone: ["702-272-3673"],
     Campus: "Las Vegas",
@@ -702,7 +702,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-3-1-3-1",
+    Grupo: "N-3-1-3-1",
     Leader: "Nori Castillo",
     Phone: ["702-272-9592"],
     Campus: "Las Vegas",
@@ -715,7 +715,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-3-1-3-2",
+    Grupo: "N-3-1-3-2",
     Leader: "Tracy Saravia",
     Phone: ["702-629-8390"],
     Campus: "Las Vegas",
@@ -728,7 +728,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "N-3-1-4-1",
+    Grupo: "N-3-1-4-1",
     Leader: "Yamile Vasquez",
     Phone: ["702-300-6710"],
     Campus: "Las Vegas",
@@ -741,7 +741,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-4-1-1-1",
+    Grupo: "N-4-1-1-1",
     Leader: "Maria Gonzalez",
     Phone: ["702-980-4820"],
     Campus: "Las Vegas",
@@ -754,7 +754,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-4-1-1-2",
+    Grupo: "N-4-1-1-2",
     Leader: "Armando Perez",
     Phone: ["725-266-2083"],
     Campus: "Las Vegas",
@@ -767,7 +767,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-4-2-2-1",
+    Grupo: "N-4-2-2-1",
     Leader: "Jose Manuel Garcia",
     Phone: ["702-665-3813"],
     Campus: "Las Vegas",
@@ -780,7 +780,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "N-4-2-2-2",
+    Grupo: "N-4-2-2-2",
     Leader: "Raul Ramirez",
     Phone: ["702-665-3209"],
     Campus: "Las Vegas",
@@ -793,7 +793,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-1-1-1-2",
+    Grupo: "R-1-1-1-2",
     Leader: "Ronald Portillo",
     Phone: ["702-517-0017"],
     Campus: "Las Vegas",
@@ -806,7 +806,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-1-1-4-2",
+    Grupo: "R-1-1-4-2",
     Leader: "Maria Gonzalez",
     Phone: ["702-353-9575"],
     Campus: "Las Vegas",
@@ -819,7 +819,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-1-2-1-1",
+    Grupo: "R-1-2-1-1",
     Leader: "Carmen Huerta",
     Phone: ["702-521-5359"],
     Campus: "Las Vegas",
@@ -832,7 +832,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-1-2-3-2",
+    Grupo: "R-1-2-3-2",
     Leader: "Deysi Ayala",
     Phone: ["702-517-8461"],
     Campus: "Las Vegas",
@@ -845,7 +845,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-1-3-1-2",
+    Grupo: "R-1-3-1-2",
     Leader: "Antonia Buatista",
     Phone: ["702-375-0414"],
     Campus: "Las Vegas",
@@ -858,7 +858,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-1-3-2-1",
+    Grupo: "R-1-3-2-1",
     Leader: "Silvia Solis",
     Phone: ["702-505-6044"],
     Campus: "Las Vegas",
@@ -871,7 +871,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-2-1-1-1",
+    Grupo: "R-2-1-1-1",
     Leader: "Isidro Escobar",
     Phone: ["702-497-0366"],
     Campus: "Las Vegas",
@@ -884,7 +884,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-2-1-4-1",
+    Grupo: "R-2-1-4-1",
     Leader: "Maria E. Avila",
     Phone: ["702-470-3277"],
     Campus: "Las Vegas",
@@ -897,7 +897,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-2-1-1",
+    Grupo: "R-2-2-1-1",
     Leader: "Eusebio Duran",
     Phone: ["702-470-3277"],
     Campus: "Las Vegas",
@@ -910,7 +910,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-2-2-1-2",
+    Grupo: "R-2-2-1-2",
     Leader: "Azucena Neria",
     Phone: ["702-813-3706"],
     Campus: "Las Vegas",
@@ -923,7 +923,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-2-2-1",
+    Grupo: "R-2-2-2-1",
     Leader: "Roberto Lopez",
     Phone: ["702-813-3706"],
     Campus: "Las Vegas",
@@ -936,7 +936,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-2-2-2",
+    Grupo: "R-2-2-2-2",
     Leader: "Eusebia Garcia",
     Phone: ["702-689-1736"],
     Campus: "Las Vegas",
@@ -949,7 +949,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-2-2-3-1",
+    Grupo: "R-2-2-3-1",
     Leader: "Luis Hernandez",
     Phone: ["702-628-2928"],
     Campus: "Las Vegas",
@@ -962,7 +962,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-2-2-3-2",
+    Grupo: "R-2-2-3-2",
     Leader: "Daniela Lopez",
     Phone: ["310-920-4978"],
     Campus: "Las Vegas",
@@ -975,7 +975,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-2-4-1",
+    Grupo: "R-2-2-4-1",
     Leader: "Daniel Perez",
     Phone: ["702-937-5859"],
     Campus: "Las Vegas",
@@ -988,7 +988,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-2-4-1",
+    Grupo: "R-2-2-4-1",
     Leader: "Daniel Perez",
     Phone: ["702-937-5859"],
     Campus: "Las Vegas",
@@ -1001,7 +1001,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-2-5-1",
+    Grupo: "R-2-2-5-1",
     Leader: "Rigoberto Hernandez",
     Phone: ["702-883-9018"],
     Campus: "Las Vegas",
@@ -1014,7 +1014,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-2-3-1-1",
+    Grupo: "R-2-3-1-1",
     Leader: "Leticia De Rivera",
     Phone: ["702-221-6412"],
     Campus: "Las Vegas",
@@ -1027,7 +1027,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-2-3-1-2",
+    Grupo: "R-2-3-1-2",
     Leader: "Nicasio Duran",
     Phone: [""],
     Campus: "Las Vegas",
@@ -1040,7 +1040,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-3-1-2-2",
+    Grupo: "R-3-1-2-2",
     Leader: "Maribel Ayala",
     Phone: ["702-752-4330"],
     Campus: "Las Vegas",
@@ -1053,7 +1053,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-3-1-4-2",
+    Grupo: "R-3-1-4-2",
     Leader: "Ana Vazquez",
     Phone: ["702-628-2751"],
     Campus: "Las Vegas",
@@ -1066,7 +1066,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-3-1-5-1",
+    Grupo: "R-3-1-5-1",
     Leader: "Javier y Ofelia Limon",
     Phone: ["702-488-4232", "702-406-8881"],
     Campus: "Las Vegas",
@@ -1079,7 +1079,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-3-2-1-2",
+    Grupo: "R-3-2-1-2",
     Leader: "Jose Urias",
     Phone: ["702-955-0020"],
     Campus: "Las Vegas",
@@ -1092,7 +1092,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-3-2-2-2",
+    Grupo: "R-3-2-2-2",
     Leader: "Kiara Prado",
     Phone: ["702-849-8239"],
     Campus: "Las Vegas",
@@ -1105,7 +1105,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-4-3-2-1",
+    Grupo: "R-4-3-2-1",
     Leader: "Anabel Martinez",
     Phone: ["702-624-2275"],
     Campus: "Las Vegas",
@@ -1118,7 +1118,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-4-3-3-2",
+    Grupo: "R-4-3-3-2",
     Leader: "Blas Duran",
     Phone: ["702-502-2773"],
     Campus: "Las Vegas",
@@ -1131,7 +1131,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-4-4-1-1",
+    Grupo: "R-4-4-1-1",
     Leader: "Alejandra Rodriguez",
     Phone: ["702-410-3674"],
     Campus: "Las Vegas",
@@ -1144,7 +1144,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-4-4-1-2",
+    Grupo: "R-4-4-1-2",
     Leader: "Margarita Hernandez",
     Phone: ["702-328-4825"],
     Campus: "Las Vegas",
@@ -1157,7 +1157,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "R-4-4-2-2",
+    Grupo: "R-4-4-2-2",
     Leader: "Antonio Fernandez",
     Phone: ["702-937-2613"],
     Campus: "Las Vegas",
@@ -1170,7 +1170,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "R-4-4-3-1",
+    Grupo: "R-4-4-3-1",
     Leader: "Isabel Calix",
     Phone: ["702-849-3085"],
     Campus: "Las Vegas",
@@ -1183,7 +1183,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-1-1-3-2",
+    Grupo: "S-1-1-3-2",
     Leader: "Armando y Olga Lopez",
     Phone: ["702-406-4311"],
     Campus: "Las Vegas",
@@ -1196,7 +1196,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-1-2-2-1",
+    Grupo: "S-1-2-2-1",
     Leader: "Gabriel Chavez",
     Phone: ["702-793-0131"],
     Campus: "Las Vegas",
@@ -1209,7 +1209,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-1-3-2-2",
+    Grupo: "S-1-3-2-2",
     Leader: "Jose A. Martinez",
     Phone: ["702-503-9660"],
     Campus: "Las Vegas",
@@ -1222,7 +1222,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-1-4-1-1",
+    Grupo: "S-1-4-1-1",
     Leader: "Alejandro Rubio",
     Phone: ["702-376-5660"],
     Campus: "Las Vegas",
@@ -1235,7 +1235,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-1-4-1-2",
+    Grupo: "S-1-4-1-2",
     Leader: "Antonio Hernandez",
     Phone: ["702-931-6657"],
     Campus: "Las Vegas",
@@ -1248,7 +1248,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-2-2-4-1",
+    Grupo: "S-2-2-4-1",
     Leader: "Dulce Sanchez",
     Phone: ["702-513-4475"],
     Campus: "Las Vegas",
@@ -1261,7 +1261,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-2-3-1-2",
+    Grupo: "S-2-3-1-2",
     Leader: "Ana Escobar",
     Phone: ["702-517-0798"],
     Campus: "Las Vegas",
@@ -1274,7 +1274,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-2-3-5-1",
+    Grupo: "S-2-3-5-1",
     Leader: "Maria Sandoval",
     Phone: ["702-628-4769"],
     Campus: "Las Vegas",
@@ -1287,7 +1287,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-2-3-5-2",
+    Grupo: "S-2-3-5-2",
     Leader: "Blanca Vargas",
     Phone: ["702-412-2784"],
     Campus: "Las Vegas",
@@ -1300,7 +1300,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-2-5-2-1",
+    Grupo: "S-2-5-2-1",
     Leader: "Basilio Martin",
     Phone: ["702-752-4259"],
     Campus: "Las Vegas",
@@ -1313,7 +1313,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-2-5-2-2",
+    Grupo: "S-2-5-2-2",
     Leader: "Maria C. Garcia",
     Phone: ["661-886-3358"],
     Campus: "Las Vegas",
@@ -1326,7 +1326,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-2-5-3-1",
+    Grupo: "S-2-5-3-1",
     Leader: "Pascasio y Lucina Martin",
     Phone: ["702-463-0341"],
     Campus: "Las Vegas",
@@ -1339,7 +1339,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-3-1-1-1",
+    Grupo: "S-3-1-1-1",
     Leader: "Judith Melgar",
     Phone: ["702-419-6193"],
     Campus: "Las Vegas",
@@ -1352,7 +1352,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-3-1-2-1",
+    Grupo: "S-3-1-2-1",
     Leader: "Marcos Berrut",
     Phone: ["702-919-9914"],
     Campus: "Las Vegas",
@@ -1365,7 +1365,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-3-3-1-1",
+    Grupo: "S-3-3-1-1",
     Leader: "Erika Beltran",
     Phone: ["702-675-0938"],
     Campus: "Las Vegas",
@@ -1378,7 +1378,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-3-3-1-2",
+    Grupo: "S-3-3-1-2",
     Leader: "Ismael Martin",
     Phone: ["702-494-9281"],
     Campus: "Las Vegas",
@@ -1391,7 +1391,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-3-4-1-2",
+    Grupo: "S-3-4-1-2",
     Leader: "Rosa Nelson",
     Phone: ["702-370-0585"],
     Campus: "Las Vegas",
@@ -1404,7 +1404,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-4-1-1-1",
+    Grupo: "S-4-1-1-1",
     Leader: "Yessica Estrada",
     Phone: ["702-772-5150"],
     Campus: "Las Vegas",
@@ -1417,7 +1417,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-4-1-1-2",
+    Grupo: "S-4-1-1-2",
     Leader: "Jose Estrada",
     Phone: ["702-908-0326"],
     Campus: "Las Vegas",
@@ -1430,7 +1430,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-4-2-1-1",
+    Grupo: "S-4-2-1-1",
     Leader: "Juan Tiznado",
     Phone: ["725-600-1447"],
     Campus: "Las Vegas",
@@ -1443,7 +1443,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-4-2-1-2",
+    Grupo: "S-4-2-1-2",
     Leader: "Melina Marin",
     Phone: ["702-680-5966"],
     Campus: "Las Vegas",
@@ -1456,7 +1456,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-4-2-2-1",
+    Grupo: "S-4-2-2-1",
     Leader: "Cesar Solano",
     Phone: ["702-479-9082"],
     Campus: "Las Vegas",
@@ -1469,7 +1469,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-4-2-3-1",
+    Grupo: "S-4-2-3-1",
     Leader: "Lupita Solano",
     Phone: ["702-583-0952"],
     Campus: "Las Vegas",
@@ -1482,7 +1482,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-5-1-1-1",
+    Grupo: "S-5-1-1-1",
     Leader: "Veronica Castro",
     Phone: ["702-972-5308"],
     Campus: "Las Vegas",
@@ -1495,7 +1495,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-5-1-1-2",
+    Grupo: "S-5-1-1-2",
     Leader: "Johony Ceron",
     Phone: ["702-755-3671"],
     Campus: "Las Vegas",
@@ -1508,7 +1508,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-5-2-1-1",
+    Grupo: "S-5-2-1-1",
     Leader: "Lidia Hernandez",
     Phone: ["702-759-3465"],
     Campus: "Las Vegas",
@@ -1521,7 +1521,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-5-2-1-2",
+    Grupo: "S-5-2-1-2",
     Leader: "Rosa Gonzalez",
     Phone: ["209-594-2823"],
     Campus: "Las Vegas",
@@ -1534,7 +1534,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "S-5-3-1-1",
+    Grupo: "S-5-3-1-1",
     Leader: "Conny Rendon",
     Phone: ["702-569-1662"],
     Campus: "Las Vegas",
@@ -1547,7 +1547,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "S-5-3-1-2",
+    Grupo: "S-5-3-1-2",
     Leader: "Ivania Moreno",
     Phone: ["702-287-6542"],
     Campus: "Las Vegas",
@@ -1560,7 +1560,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-1-1-1",
+    Grupo: "SH-1-1-1-1",
     Leader: "Gina Cobas",
     Phone: ["702-758-0244"],
     Campus: "Las Vegas",
@@ -1573,7 +1573,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-1-1-2",
+    Grupo: "SH-1-1-1-2",
     Leader: "Johanna Largaespada",
     Phone: ["661-916-1067"],
     Campus: "Las Vegas",
@@ -1586,7 +1586,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-1-1-2-1",
+    Grupo: "SH-1-1-2-1",
     Leader: "Alex Gonzalez",
     Phone: ["702-533-6851"],
     Campus: "Las Vegas",
@@ -1599,7 +1599,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-1-3-2",
+    Grupo: "SH-1-1-3-2",
     Leader: "Higinio Gomez",
     Phone: ["702-980-2713"],
     Campus: "Las Vegas",
@@ -1612,7 +1612,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-3-1-1",
+    Grupo: "SH-1-3-1-1",
     Leader: "Alejandra Osorio",
     Phone: ["323-504-0396"],
     Campus: "Las Vegas",
@@ -1625,7 +1625,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-3-2-1",
+    Grupo: "SH-1-3-2-1",
     Leader: "Clara Nieto",
     Phone: ["702-541-5868"],
     Campus: "Las Vegas",
@@ -1638,7 +1638,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-3-3-1",
+    Grupo: "SH-1-3-3-1",
     Leader: "Fabiola Esparza",
     Phone: ["702-824-7777"],
     Campus: "Las Vegas",
@@ -1652,7 +1652,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-3-3-2",
+    Grupo: "SH-1-3-3-2",
     Leader: "Francisco Osorio",
     Phone: ["323-499-8288"],
     Campus: "Las Vegas",
@@ -1665,7 +1665,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-1-3-4-1",
+    Grupo: "SH-1-3-4-1",
     Leader: "Cecilia Sheffer",
     Phone: ["702-773-9967"],
     Campus: "Las Vegas",
@@ -1678,7 +1678,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-1-3-4-2",
+    Grupo: "SH-1-3-4-2",
     Leader: "Gerardo y Cristal Salas",
     Phone: ["702-401-2997"],
     Campus: "Las Vegas",
@@ -1691,7 +1691,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-3-5-1",
+    Grupo: "SH-1-3-5-1",
     Leader: "Cecilia Sheffer",
     Phone: ["702-773-9967"],
     Campus: "Las Vegas",
@@ -1704,7 +1704,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-5",
+    Grupo: "SH-1-5",
     Leader: "Elena Gomez",
     Phone: ["702-488-5131"],
     Campus: "Las Vegas",
@@ -1717,7 +1717,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-1-5-1-1",
+    Grupo: "SH-1-5-1-1",
     Leader: "Elena Gomez",
     Phone: ["702-488-5131"],
     Campus: "Las Vegas",
@@ -1730,7 +1730,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-2-1-1-1",
+    Grupo: "SH-2-1-1-1",
     Leader: "Maria E.Herrera",
     Phone: ["702-675-0406"],
     Campus: "Las Vegas",
@@ -1743,7 +1743,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-2-3-1-1",
+    Grupo: "SH-2-3-1-1",
     Leader: "Jorge Gonzalez",
     Phone: ["702-504-5736", "702-542-9347"],
     Campus: "Las Vegas",
@@ -1756,7 +1756,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-2-3-1-2",
+    Grupo: "SH-2-3-1-2",
     Leader: "Laura Galvez",
     Phone: ["702-209-7964"],
     Campus: "Las Vegas",
@@ -1769,7 +1769,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-2-3-3-1",
+    Grupo: "SH-2-3-3-1",
     Leader: "Cecilia Villalta",
     Phone: ["702-666-1052"],
     Campus: "Las Vegas",
@@ -1782,7 +1782,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-2-4-1-1",
+    Grupo: "SH-2-4-1-1",
     Leader: "Roberto Salgado",
     Phone: ["562-477-1126"],
     Campus: "Las Vegas",
@@ -1795,7 +1795,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-2-4-2-1",
+    Grupo: "SH-2-4-2-1",
     Leader: "Miriam Escalante",
     Phone: ["702-845-8333"],
     Campus: "Las Vegas",
@@ -1808,7 +1808,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-2-4-2-2",
+    Grupo: "SH-2-4-2-2",
     Leader: "Oscar Perez",
     Phone: ["702-912-9042"],
     Campus: "Las Vegas",
@@ -1821,7 +1821,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-3-1-1-1",
+    Grupo: "SH-3-1-1-1",
     Leader: "Erika Marin",
     Phone: ["702-418-4470"],
     Campus: "Las Vegas",
@@ -1834,7 +1834,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-3-1-2-1",
+    Grupo: "SH-3-1-2-1",
     Leader: "Erika Marin",
     Phone: ["702-418-4470"],
     Campus: "Las Vegas",
@@ -1847,7 +1847,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-3-2-1-1",
+    Grupo: "SH-3-2-1-1",
     Leader: "Jose Corral",
     Phone: ["702-300-6878"],
     Campus: "Las Vegas",
@@ -1860,7 +1860,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-3-2-2-2",
+    Grupo: "SH-3-2-2-2",
     Leader: "Eliseo y Carmen Pascual",
     Phone: ["702-773-1150", "702-787-1547"],
     Campus: "Las Vegas",
@@ -1873,7 +1873,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-3-3-1-1",
+    Grupo: "SH-3-3-1-1",
     Leader: "Alvin y Alicia Rodriguez",
     Phone: ["702-913-0006", "702-502-0743"],
     Campus: "Las Vegas",
@@ -1886,7 +1886,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-3-3-2-1",
+    Grupo: "SH-3-3-2-1",
     Leader: "Rosa Zelaya",
     Phone: ["702-324-5373", "702-494-9239"],
     Campus: "Las Vegas",
@@ -1899,7 +1899,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-3-4-1-1",
+    Grupo: "SH-3-4-1-1",
     Leader: "Juan y Ruth Ventura",
     Phone: ["702-501-2847", "702-496-1780"],
     Campus: "Las Vegas",
@@ -1912,7 +1912,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-3-4-1-2",
+    Grupo: "SH-3-4-1-2",
     Leader: "Norma Ramos y Francisco Sanchez",
     Phone: ["702-682-7147", "702-412-9191"],
     Campus: "Las Vegas",
@@ -1925,7 +1925,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-3-5-1-1",
+    Grupo: "SH-3-5-1-1",
     Leader: "Juan Cuaya",
     Phone: ["702-771-8962", "702-773-5977"],
     Campus: "Las Vegas",
@@ -1938,7 +1938,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-4-1-1-2",
+    Grupo: "SH-4-1-1-2",
     Leader: "Erick Castillo",
     Phone: ["702-773-5701"],
     Campus: "Las Vegas",
@@ -1951,7 +1951,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-4-1-2-2",
+    Grupo: "SH-4-1-2-2",
     Leader: "Norma Castillo",
     Phone: ["702-479-9331"],
     Campus: "Las Vegas",
@@ -1964,7 +1964,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-4-1-4-1",
+    Grupo: "SH-4-1-4-1",
     Leader: "Angel Gonzalez",
     Phone: ["702-595-8579", "702-624-1281"],
     Campus: "Las Vegas",
@@ -1977,7 +1977,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-4-2-1-2",
+    Grupo: "SH-4-2-1-2",
     Leader: "Olga y Jaime Leon",
     Phone: ["702-500-9433", "702-582-1006"],
     Campus: "Las Vegas",
@@ -1990,7 +1990,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-4-3-1-2",
+    Grupo: "SH-4-3-1-2",
     Leader: "Martha Sotelo",
     Phone: ["702-809-6566"],
     Campus: "Las Vegas",
@@ -2003,7 +2003,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-4-4-1-1",
+    Grupo: "SH-4-4-1-1",
     Leader: "Heraclio Antonio Zerafino",
     Phone: ["702-772-5886"],
     Campus: "Las Vegas",
@@ -2016,7 +2016,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-4-5-2-2",
+    Grupo: "SH-4-5-2-2",
     Leader: "Yanet Rodriguez",
     Phone: ["702-980-6413"],
     Campus: "Las Vegas",
@@ -2029,7 +2029,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-5-1-1-1",
+    Grupo: "SH-5-1-1-1",
     Leader: "Hedilberto Avalos",
     Phone: ["702-937-0043"],
     Campus: "Las Vegas",
@@ -2042,7 +2042,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-5-1-1-2",
+    Grupo: "SH-5-1-1-2",
     Leader: "Carlos Acosta",
     Phone: ["702-609-1917"],
     Campus: "Las Vegas",
@@ -2055,7 +2055,7 @@ module.exports = [
     Childcare: "No",
   },
   {
-    Group: "SH-5-2-1-1",
+    Grupo: "SH-5-2-1-1",
     Leader: "Jeorgina Torres Pena",
     Phone: ["702-504-7007"],
     Campus: "Las Vegas",
@@ -2068,7 +2068,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-5-2-1-2",
+    Grupo: "SH-5-2-1-2",
     Leader: "Griselda Flores",
     Phone: ["702-217-1079"],
     Campus: "Las Vegas",
@@ -2081,7 +2081,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-5-2-1-2",
+    Grupo: "SH-5-2-1-2",
     Leader: "William Flores",
     Phone: ["702-858-0661"],
     Campus: "Las Vegas",
@@ -2094,7 +2094,7 @@ module.exports = [
     Childcare: "Childcare",
   },
   {
-    Group: "SH-5-3-2-1",
+    Grupo: "SH-5-3-2-1",
     Leader: "Claudia Elizabeth Aguilar",
     Phone: ["702-504-8017"],
     Campus: "Las Vegas",
