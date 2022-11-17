@@ -10,7 +10,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "A-2-1-2-1",
@@ -49,7 +49,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "A-2-1-5-1",
@@ -62,7 +62,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "A-2-4-1-1",
@@ -88,7 +88,7 @@ module.exports = [
     Tiempo: ["6:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "A-5-2-1-1",
@@ -140,7 +140,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-1-2-1-1",
@@ -192,7 +192,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-1-3-3-1",
@@ -218,7 +218,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-1-4-1-2",
@@ -231,7 +231,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-1-4-3-2",
@@ -244,7 +244,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-2-1-1-1",
@@ -257,7 +257,7 @@ module.exports = [
     Tiempo: ["7:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-2-1-1-2",
@@ -270,7 +270,7 @@ module.exports = [
     Tiempo: ["4:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-2-1-2-1",
@@ -283,7 +283,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-2-1-2-1",
@@ -322,7 +322,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-3-1-3-1",
@@ -348,7 +348,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-3-3-1-1",
@@ -361,7 +361,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-3-5-1-1",
@@ -387,7 +387,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-3-5-2-1",
@@ -452,7 +452,7 @@ module.exports = [
     Tiempo: ["6:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "J-4-1-2-2",
@@ -569,7 +569,7 @@ module.exports = [
     Tiempo: ["3:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Inglés",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "N-1-4-1-2",
@@ -608,7 +608,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Inglés",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "N-2-2-4-2",
@@ -725,7 +725,7 @@ module.exports = [
     Tiempo: ["7:30 PM"],
     EnPersona: "En Persona",
     Idioma: "",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "N-3-1-4-1",
@@ -816,7 +816,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-1-2-1-1",
@@ -829,7 +829,7 @@ module.exports = [
     Tiempo: ["7:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-1-2-3-2",
@@ -842,7 +842,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-1-3-1-2",
@@ -868,7 +868,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-2-1-1-1",
@@ -881,7 +881,7 @@ module.exports = [
     Tiempo: ["7:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-2-1-4-1",
@@ -907,7 +907,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-2-2-1-2",
@@ -946,7 +946,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-2-2-3-1",
@@ -959,7 +959,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-2-2-3-2",
@@ -1024,7 +1024,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-2-3-1-2",
@@ -1037,7 +1037,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-3-1-2-2",
@@ -1128,7 +1128,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-4-4-1-1",
@@ -1141,7 +1141,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-4-4-1-2",
@@ -1154,7 +1154,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "R-4-4-2-2",
@@ -1206,7 +1206,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-1-3-2-2",
@@ -1219,7 +1219,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-1-4-1-1",
@@ -1258,7 +1258,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-2-3-1-2",
@@ -1297,7 +1297,7 @@ module.exports = [
     Tiempo: ["6:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-2-5-2-1",
@@ -1310,7 +1310,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-2-5-2-2",
@@ -1349,7 +1349,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-3-1-2-1",
@@ -1362,7 +1362,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-3-3-1-1",
@@ -1388,7 +1388,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-3-4-1-2",
@@ -1440,7 +1440,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-4-2-1-2",
@@ -1466,7 +1466,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-4-2-3-1",
@@ -1518,7 +1518,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-5-2-1-2",
@@ -1531,7 +1531,7 @@ module.exports = [
     Tiempo: ["11:00 AM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "S-5-3-1-1",
@@ -1583,7 +1583,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-1-1-2-1",
@@ -1662,7 +1662,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-1-3-4-1",
@@ -1675,7 +1675,7 @@ module.exports = [
     Tiempo: ["5:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-1-3-4-2",
@@ -1727,7 +1727,7 @@ module.exports = [
     Tiempo: ["10:00 AM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-2-1-1-1",
@@ -1740,7 +1740,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-2-3-1-1",
@@ -1753,7 +1753,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-2-3-1-2",
@@ -1792,7 +1792,7 @@ module.exports = [
     Tiempo: ["7:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-2-4-2-1",
@@ -1831,7 +1831,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-3-1-2-1",
@@ -1844,7 +1844,7 @@ module.exports = [
     Tiempo: ["9:00 AM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-3-2-1-1",
@@ -1857,7 +1857,7 @@ module.exports = [
     Tiempo: ["6:30 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-3-2-2-2",
@@ -1870,7 +1870,7 @@ module.exports = [
     Tiempo: ["8:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-3-3-1-1",
@@ -1961,7 +1961,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-4-1-4-1",
@@ -2026,7 +2026,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-5-1-1-1",
@@ -2065,7 +2065,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-5-2-1-2",
@@ -2078,7 +2078,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-5-2-1-2",
@@ -2091,7 +2091,7 @@ module.exports = [
     Tiempo: ["7:00 PM"],
     EnPersona: "En Persona",
     Idioma: "Español",
-    NiñosBienvenidos: " NiñosBienvenidos",
+    NiñosBienvenidos: "NiñosBienvenidos",
   },
   {
     Grupo: "SH-5-3-2-1",
