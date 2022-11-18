@@ -15,6 +15,7 @@ app.use(
 );
 
 app.get("/posts", (req, res) => {
+  res.setHeader("Access-Control-Allow-Origin", "https://www.aguilascfc.org/");
   res.json(posts);
 });
 
