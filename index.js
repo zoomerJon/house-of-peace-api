@@ -6,7 +6,6 @@ const cors = require("cors");
 app.use(
   cors({
     origin: [
-      // "https://www.aguilascfc.org/",
       "https://www.aguilascfc.org/2022/11/17/prueba-2/",
       "https://quiet-malasada-658090.netlify.app",
       "https://jovalle0103.wpcomstaging.com",
@@ -15,10 +14,11 @@ app.use(
 );
 
 app.get("/posts", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", [
+  res.setHeader(
+    "Access-Control-Allow-Origin",
     "https://www.aguilascfc.org",
-    "https://quiet-malasada-658090.netlify.app",
-  ]);
+    "https://quiet-malasada-658090.netlify.app"
+  );
   res.json(posts);
 });
 
