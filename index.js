@@ -16,8 +16,8 @@ app.use(
 app.get("/posts", (req, res) => {
   res.setHeader(
     "Access-Control-Allow-Origin",
-    "https://www.aguilascfc.org",
-    "https://quiet-malasada-658090.netlify.app"
+    "https://quiet-malasada-658090.netlify.app",
+    "https://www.aguilascfc.org"
   );
   res.json(posts);
 });
