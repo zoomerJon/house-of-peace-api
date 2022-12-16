@@ -19,7 +19,7 @@ app.use((req, res, next) => {
 //   })
 // );
 
-app.get("/jokes/random", (req, res) => {
+app.get("/posts", (req, res) => {
   request(
     { url: "https://house-of-peace-api.herokuapp.com/posts" },
     (error, response, body) => {
