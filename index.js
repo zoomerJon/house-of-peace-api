@@ -19,9 +19,22 @@ app.use((req, res, next) => {
 //   })
 // );
 
-app.get("/posts", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.json(posts);
+app.get("/jokes/random", (req, res) => {
+  request(
+    { url: "https://house-of-peace-api.herokuapp.com/posts" },
+    (error, response, body) => {
+      if (error || response.statusCode !== 200) {
+        return res.status(500).json({ type: "error", message: err.message });
+      }
+
+      res.json(posts);
+    }
+  );
 });
+
+// app.get("/posts", (req, res) => {
+//   res.setHeader("Access-Control-Allow-Origin", "*");
+//   res.json(posts);
+// });
 
 app.listen(process.env.PORT || 3000, () => console.log("server is running"));
