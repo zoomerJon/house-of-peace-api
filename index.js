@@ -5,7 +5,11 @@ const posts = require("./posts");
 const cors = require("cors");
 app.use(
   cors({
-    origin: ["*"],
+    origin: [
+      "https://quiet-malasada-658090.netlify.app",
+      "https://www.aguilascfc.org/2022/11/17/prueba-2/",
+      "https://jovalle0103.wpcomstaging.com",
+    ],
   })
 );
 
